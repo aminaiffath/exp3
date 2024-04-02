@@ -1,0 +1,23 @@
+h1{
+    color: green;
+}
+.b1{
+    background-color: green;
+}
+.center{
+    margin: auto;
+    width: 50%;
+    border: 3px ;
+    padding: 10px;
+    text-align: center;
+    background-color: bisque;
+}
+.div{
+    border-style:solid ;
+    border-color: black;
+    width: auto;
+}
+.form{
+    border-style:groove ;
+    border-color: black;
+}
